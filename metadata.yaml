@@ -1,0 +1,36 @@
+_repo: Markenmoren-salaisuus_66384
+_version: 0.0.1
+alternative_title: The Markenmore mystery. Finnish
+contributor:
+  translator:
+    agent_name: Meltti, Väinö
+    alias: Meltti, Vaino
+    birthdate: 1898
+    deathdate: 1964
+    gutenberg_agent_id: '53784'
+    url: http://www.gutenberg.org/2009/agents/53784
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Meltti
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: https://en.wikipedia.org/wiki/J._S._Fletcher
+description: ''
+gutenberg_issued: '2021-09-26'
+identifiers:
+  gutenberg: '66384'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- Translations into Finnish'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Markenmoren salaisuus
+url: http://www.gutenberg.org/ebooks/66384
