@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '53784'
     url: http://www.gutenberg.org/2009/agents/53784
     wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Meltti
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fletcher, J. S. (Joseph Smith)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1761
     wikipedia: https://en.wikipedia.org/wiki/J._S._Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66384#Markenmoren-salaisuus
 gutenberg_issued: '2021-09-26'
 identifiers:
   gutenberg: '66384'
